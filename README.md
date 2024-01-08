@@ -1,1 +1,3 @@
-# Monte-Carlo-Simulation-for-ideal-Stock-Portfolio
+# Monte Carlo Simulation for ideal Stock Portfolio
+
+Utilized advanced financial modeling techniques, including Monte Carlo Simulation, to strategically construct an optimal stock portfolio. The portfolio selection process involved Efficient Frontier analysis based on 5 years of historical data from Forbes' list of the best companies to invest in 2024, encompassing 10 carefully chosen companies. Executed detailed calculations for crucial financial metrics such as annual returns, volatility, portfolio weight optimization, and adjusted risk of return. The outcomes provided valuable insights into risk-adjusted values within the portfolio, empowering individuals with comprehensive information to enhance their decision-making processes in the dynamic stock market landscape.
