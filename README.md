@@ -13,3 +13,12 @@ In-depth calculations are performed to understand the intricacies of each portfo
 
    
 These insights equip individuals with powerful tools for decision-making, enabling them to choose a portfolio that aligns with their risk tolerance and return expectations. By peering into the future through Monte Carlo simulations and navigating the efficient frontier, this project empowers individuals to make informed investment choices for a profitable 2024.
+In this project, I also calculated the correlation between stocks from the six companies using the daily return to achieve well-diversified portfolios to balance the overall portfolio performance and mitigate the risk of losing money. 
+
+Overall Diversification Insights : 
+- HLN  (Haleon Plc: consumer health company) is a crucial component for achieving a well-diversified portfolio among these six companies, due to its weak correlations with all other stocks. 
+- BKNG (Booking Holdings Inc) and IHG (InterContinental Hotels Group PLC): Should be balanced with low-correlated stocks like HLN to mitigate risk.
+- EZJ (easyJet plc) and HLN: Pair well together for diversification.
+- PYPL (PayPal Holdings Inc. )and PDD (Pinduoduo Inc.) : Should include HLN to achieve better diversification. 
+
+It is crucial to consider other factors, such as market conditions, investment goals, and making investment decisions. 
